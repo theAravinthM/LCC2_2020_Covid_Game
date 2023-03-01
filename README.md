@@ -6,14 +6,17 @@ To Jump use UP key . To Move use Left / Right key
 
 To run the code,
 
-👉open CMD(Command Prompt)
+### Requirements
+* python3
+* azure-cosmos
 
-👉check whether the package azure-cosmos installed or not.
+### To check: 
+* Open CMD(Command Prompt)
+* Type: pip list
 
-▪To check type : pip list (in cmd)
+#### If installed, you're ready to go 
+#### If not installed, 
+* To install package type : pip install -U azure-cosmos (in cmd)
 
-▪To install package type : pip install -U azure-cosmos (in cmd)
-
-### Stay Safe 
-### Stay Home
-
+### Stay Home 
+### Stay Safe
