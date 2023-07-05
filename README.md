@@ -1,5 +1,6 @@
 # Corona Game-(Beware of Corona😉)
-## Let's code Coimbatore .
+## Let's code Coimbatore 2.0
+[KGiSL Twitter tweet](https://twitter.com/kgkitean/status/1245275945570836480?lang=en)
 In this game the player should escape from the viruses by jumping and moving .
 
 To Jump use UP key . To Move use Left / Right key 
