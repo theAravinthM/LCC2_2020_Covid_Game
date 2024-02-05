@@ -1,6 +1,6 @@
 # Corona Game-(Beware of Corona😉)
 ## Let's code Coimbatore 2.0
-[See more..](https://twitter.com/kgkitean/status/1245275945570836480?lang=en)
+To see the twitter poster : [click here](https://twitter.com/kgkitean/status/1245275945570836480?lang=en)
 
 In this game the player should escape from the viruses by jumping and moving .
 
